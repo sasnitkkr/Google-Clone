@@ -1,0 +1,13 @@
+1. npx create-react-app google-clone
+2. cd google-clone
+3. npm start -> project starts on localhost:3000
+4. Cleaning
+    Select App.test.js, logo.svg, setupTests.js ->delete
+    In App.js remove import logo line, delete everything inside div.App
+    Remove Default styling in App.css 
+    Remove margin from index.css
+    For BEM naming convention change class to app in App.js
+
+    <!--BEM-->
+
+5. 
